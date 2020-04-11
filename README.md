@@ -40,3 +40,5 @@ Own leetcode solution summary
 
 # 回溯算法
 - 括号生成
+- 字符串的排列（剑指offer）
+- 子集
