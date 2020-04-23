@@ -55,3 +55,7 @@ Own leetcode solution summary
 - 字符串
 - Z字型
 - 罗马数字转换
+
+# 排序
+- 合并区间
+- 颜色分类（荷兰国旗问题）
